@@ -1,7 +1,7 @@
 # deepseek-r1-medical-fine-tune
 
 简介：
-本项目是基于200万条医疗数据https://huggingface.co/datasets/shibing624/medical对deepseek-r1进行微调，形成一个在医学方面具有极高专业性的可本地部署的大语言模型
+本项目是基于200万条医疗数据  https://huggingface.co/datasets/shibing624/medical  对deepseek-r1进行微调，形成一个在医学方面具有极高专业性的可本地部署的大语言模型
 
 可以直接使用ipynb自己运行，也有可以直接调用的版本https://huggingface.co/beita6969/deepseek-r1-medical-response/tree/main
 
