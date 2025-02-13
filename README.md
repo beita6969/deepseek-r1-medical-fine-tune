@@ -5,6 +5,8 @@
 
 可以直接使用ipynb自己运行，也有可以直接调用的版本https://huggingface.co/beita6969/deepseek-r1-medical-response/tree/main
 
+2025.2.13 更新部署代码，添加了简单的ui界面
+
 
 ## Table of Contents
 1. [Setting up](#setting-up)
