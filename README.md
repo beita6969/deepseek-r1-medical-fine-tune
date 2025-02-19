@@ -7,6 +7,8 @@
 
 2025.2.13 更新部署代码，添加了简单的ui界面
 
+2025.2.19 更新ipynb，全面优化参数
+
 
 ## Table of Contents
 1. [Setting up](#setting-up)
