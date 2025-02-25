@@ -10,7 +10,7 @@
 
 This project fine-tunes the **DeepSeek-R1-Distill-Qwen-32B** model using a dataset of [2 million medical records](https://huggingface.co/datasets/shibing624/medical), delivering a highly specialized, locally deployable large language model tailored for the medical domain. It is ideal for medical research, diagnostic assistance, and more, with flexible local deployment and easy integration.
 
-![ui]()
+![ui](206811740469530_.pic.jpg)
 ### 获取模型 | Get Started
 - **运行笔记本**：通过 IPython Notebook (ipynb) 文件自行运行模型。  
 - **直接调用**：访问现成版本 [Hugging Face 模型仓库](https://huggingface.co/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical/tree/main)。  
