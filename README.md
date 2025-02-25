@@ -10,6 +10,8 @@
 2025.2.19 更新ipynb，全面优化参数
 
 2025.2.25 更新模型为DeepSeek-R1-Distill-Qwen-32B更加专业减少bug，加强输出的专业性，优化ui界面
+![Uploading image.png…]()
+
 
 
 ## Table of Contents
