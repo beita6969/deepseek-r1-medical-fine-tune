@@ -1,4 +1,4 @@
-# deepseek-r1-medical-fine-tune
+# DeepSeek-R1-Distill-Qwen-32B-Medical
 
 简介：
 本项目是基于200万条医疗数据  https://huggingface.co/datasets/shibing624/medical  对DeepSeek-R1-Distill-Qwen-32B进行微调，形成一个在医学方面具有极高专业性的可本地部署的大语言模型
@@ -10,6 +10,17 @@
 2025.2.19 更新ipynb，全面优化参数
 
 2025.2.25 更新模型为DeepSeek-R1-Distill-Qwen-32B更加专业减少bug，加强输出的专业性，优化ui界面
+
+Introduction:  
+This project is based on fine-tuning the DeepSeek-R1-Distill-Qwen-32B model using a dataset of 2 million medical records (https://huggingface.co/datasets/shibing624/medical), resulting in a highly specialized, locally deployable large language model with exceptional expertise in the medical field.  
+
+You can directly run it yourself using an IPython notebook (ipynb), or use a ready-to-call version available at:  
+https://huggingface.co/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical/tree/main  
+
+Updates:  
+- February 13, 2025: Updated deployment code and added a simple UI interface.  
+- February 19, 2025: Updated the ipynb, comprehensively optimized parameters.  
+- February 25, 2025: Upgraded the model to DeepSeek-R1-Distill-Qwen-32B, enhancing professionalism, reducing bugs, improving output quality, and optimizing the UI interface.
 
 
 
