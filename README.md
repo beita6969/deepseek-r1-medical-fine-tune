@@ -45,4 +45,4 @@ This project fine-tunes the **DeepSeek-R1-Distill-Qwen-32B** model using a datas
 
 ### 环境配置 | Setting Up
 ```bash
-pip install -r requirements.txt
+run ipynb
